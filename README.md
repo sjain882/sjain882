@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 ## **💡 I'm currently...**
 - Learning [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) and [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example) with C#
-    - This will allow me to maximise the scalability and maintainability of my code
 - Contributing [quality-of-life improvements](https://github.com/sjain882/warrantv) to [WarrantV](https://www.gta5-mods.com/scripts/warrantv)
 - Sharpening my problem-solving skills on [Coderbyte](https://coderbyte.com/)
 - Working on a personal website to better-document my portfolio
@@ -42,12 +41,16 @@ Here are some ideas to get you started:
 ## **🚀 My best projects are...**
 - [Game Content Manager]() (C# WinForms, unreleased)
     - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game (University Dissertation)
+‎
 - [OCRmyPDF-WinGUI](https://github.com/sjain882/OCRmyPDF-WinGUI) (C# WPF)
     - Responsive .NET 8 GUI for [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF), adhering to MVVM principles.
+‎
 - [ModernBlog](https://github.com/sjain882/Csc348-blog) (PHP, Laravel)
-    - Community blog web application with several QoL features (e.g, role-based access control) built with an Object-Relational Mapper
+    - Community blog web application with several QoL features (e.g, role-based access control) built with an ORM
+‎
 - [OMSI-Crossing-Editor-Tools](https://github.com/sjain882/OMSI-Crossing-Editor-Tools) (C# WinForms)
     - Memory-hacking tool that adds missing camera controls to closed-source 3D software
+‎
 - [HELEN-ClearType-Toggle](https://github.com/sjain882/HELEN-ClearType-Toggle) (C# WinForms)
     - Simple patcher that modifies proprietary software to alleviate a design flaw
 
@@ -57,9 +60,7 @@ Here are some ideas to get you started:
 - Put together small C# WinForms utilities to assist with daily tasks
     - Examples include [FFMPEG-QTTabBar-Tools](https://github.com/sjain882/FFMPEG-QTTabBar-Tools) and [HTPC-Res-Switcher](https://github.com/sjain882/HTPC-Res-Switcher)
 - Create Powershell scripts to overcome various challenges and publish them on [GitHub Gists](https://gist.github.com/sjain882)
-- Translate the results of my various troubleshooting endeavours into markdown guides published on [GitHub Gists](https://gist.github.com/sjain882), to save others time
-
-*Note: My GitHub contribution graph isn't the best representation of the programming I do outside of work - some of my current projects aren't on GitHub*.
+- Translate the results of my various troubleshooting experiences into markdown guides published on [GitHub Gists](https://gist.github.com/sjain882), to save others time
 
 ## **🛠 Languages & Tools**
 <div align="center">  
@@ -88,5 +89,10 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a> 
+
+<sub>*Note: My GitHub contribution graph isn't the best representation of the programming I do outside of work - some of my current projects aren't on GitHub*.</sub>
+
 </div>
+
+
 
