@@ -23,7 +23,7 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api?username=sjain882&count_private=true&theme=dark" width="80%" height="80%"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain882&layout=compact&theme=dark" width="80%" height="80%"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain882&layout=compact&theme=dark" width="95%" height="95%"/>
         </td>
     </tr>
 </table>
