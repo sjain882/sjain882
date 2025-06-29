@@ -29,35 +29,35 @@ Here are some ideas to get you started:
 </table>
 
 ## **💡 I'm currently...**
-- Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with C#
-- Contributing **[quality-of-life improvements](https://github.com/sjain882/warrantv)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)**
+- Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#`
+- Contributing **[quality-of-life improvements](https://github.com/sjain882/warrantv)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)** (`C#`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better-document my portfolio
 
 ## **📈 Next, I plan to...**
-- Create a C# web API for my finance planning application using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)**
-- Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for an undisclosed game project
+- Create a `C# ASP.NET` web API for my finance planning application using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)**
+- Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for an undisclosed game project (`C#`)
 
 ## **🚀 My best projects are...**
-- **[Game Content Manager]()** (C# WinForms, unreleased pending rewrite)
+- **[Game Content Manager]()** (`C# WinForms`, unreleased pending rewrite)
     - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game
 ‎
-- **[OCRmyPDF-WinGUI](https://github.com/sjain882/OCRmyPDF-WinGUI)** (C# WPF)
+- **[OCRmyPDF-WinGUI](https://github.com/sjain882/OCRmyPDF-WinGUI)** (`C# WPF`)
     - Responsive .NET 8 GUI for [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF), adhering to MVVM principles.
 ‎
-- **[ModernBlog](https://github.com/sjain882/Csc348-blog)** (PHP, Laravel)
+- **[ModernBlog](https://github.com/sjain882/Csc348-blog)** (`PHP, Laravel`)
     - Community blog web application with several QoL features (e.g, role-based access control)
 ‎
-- **[OMSI-Crossing-Editor-Tools](https://github.com/sjain882/OMSI-Crossing-Editor-Tools)** (C# WinForms)
+- **[OMSI-Crossing-Editor-Tools](https://github.com/sjain882/OMSI-Crossing-Editor-Tools)** (`C# WinForms`)
     - Memory-hacking tool that adds missing camera controls to closed-source 3D software
 ‎
-- **[HELEN-ClearType-Toggle](https://github.com/sjain882/HELEN-ClearType-Toggle)** (C# WinForms)
+- **[HELEN-ClearType-Toggle](https://github.com/sjain882/HELEN-ClearType-Toggle)** (`C# WinForms`)
     - Simple patcher that modifies proprietary software to alleviate a design flaw
 
 ## **🎨 Sometimes, I...**
-- Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (AHK) to accelerate my workflow
-- Tinker with **[Browser UserScripts](https://github.com/sjain882/Browser-Tweaks)** (JS) to solve minor annoyances on frequently visited websites
-- Put together small C# WinForms utilities to assist with daily tasks, such as **[FFMPEG-QTTabBar-Tools](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)**
+- Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (`AHK`) to accelerate my workflow
+- Tinker with **[Browser UserScripts](https://github.com/sjain882/Browser-Tweaks)** (`JS`) to solve minor annoyances on frequently visited websites
+- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[FFMPEG-QTTabBar-Tools](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)**
 - Create Powershell scripts to overcome various challenges and publish them on **[GitHub Gists](https://gist.github.com/sjain882)**
 - Save others time by translating various troubleshooting experiences into guides published on **[GitHub Gists](https://gist.github.com/sjain882)**.
 
