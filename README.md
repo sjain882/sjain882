@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Working on a personal website to better document my portfolio
 
 ## **📈 Next, I plan to...**
-- Create a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)**
+- Create a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** and the **[Result](https://andrewlock.net/working-with-the-result-pattern-part-1-replacing-exceptions-as-control-flow/)** & **[Command](https://refactoring.guru/design-patterns/command/csharp/example)** patterns
 - Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for a game project (`C#`)
 
 ## **🚀 My best projects are...**
