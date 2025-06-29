@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 - Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for a game project (`C#`)
 
 ## **🚀 My best projects are...**
-- **[Game Content Manager]()** (`C# WinForms`, unreleased pending rewrite)
+- **[Game Content Manager]()** (`C# WinForms`)
     - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game
+    - Unreleased pending rewrite in [AvaloniaUI](https://avaloniaui.net/)
 ‎
 - **[OCRmyPDF-WinGUI](https://github.com/sjain882/OCRmyPDF-WinGUI)** (`C# WPF`)
     - Responsive .NET 8 GUI for [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF), adhering to MVVM principles.
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 - Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (`AHK`) to accelerate my workflow
 - Tinker with **[browser userscripts](https://github.com/sjain882/Browser-Tweaks)** (`JS`) to solve minor annoyances on frequently visited websites
 - Complete projects to repurpose obsolete hardware, such as a **[mobile telemetry display](https://github.com/sjain882/ETS2-Basic-Info-Grid)** for racing games
-- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[these FFMPEG GUI widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)**
+- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[these FFMPEG widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)**
 - Create Powershell scripts to overcome various challenges and publish them on **[GitHub Gists](https://gist.github.com/sjain882)**
 - Save others time by translating various troubleshooting experiences into guides published on **[GitHub Gists](https://gist.github.com/sjain882)**.
 
