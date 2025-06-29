@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## **💡 I'm currently...**
 - Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#`
-- Contributing **[quality-of-life improvements](https://github.com/sjain882/warrantv)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)** (`C#`)
+- Contributing **[quality-of-life improvements](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)** (`C#`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better document my portfolio
 
