@@ -43,16 +43,16 @@ Here are some ideas to get you started:
     - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game
     - Unreleased pending rewrite with [AvaloniaUI](https://avaloniaui.net/)
 ‎
-- **[OCRmyPDF-WinGUI](https://github.com/sjain882/OCRmyPDF-WinGUI)** (`C# WPF`)
+- **[OCRmyPDF Frontend](https://github.com/sjain882/OCRmyPDF-WinGUI)** (`C# WPF`)
     - Responsive .NET 8 GUI for [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF), adhering to MVVM principles.
 ‎
 - **[ModernBlog](https://github.com/sjain882/Csc348-blog)** (`PHP, Laravel`)
     - Community blog web application with several QoL features (e.g, role-based access control)
 ‎
-- **[OMSI-Crossing-Editor-Tools](https://github.com/sjain882/OMSI-Crossing-Editor-Tools)** (`C# WinForms`)
+- **[OMSI Crossing Editor Tools](https://github.com/sjain882/OMSI-Crossing-Editor-Tools)** (`C# WinForms`)
     - Memory-hacking tool that adds missing camera controls to closed-source 3D software
 ‎
-- **[HELEN-ClearType-Toggle](https://github.com/sjain882/HELEN-ClearType-Toggle)** (`C# WinForms`)
+- **[HELEN ClearType Control Toggler](https://github.com/sjain882/HELEN-ClearType-Toggle)** (`C# WinForms`)
     - Simple patcher that modifies proprietary software to alleviate a design flaw
 
 ## **🎨 Sometimes, I...**
