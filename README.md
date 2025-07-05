@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (`AHK`) to accelerate my workflow
 - Tinker with **[browser userscripts](https://github.com/sjain882/Browser-Tweaks)** (`js`) to solve minor annoyances on frequently visited websites
 - Complete projects to repurpose obsolete hardware, such as a **[mobile telemetry display](https://github.com/sjain882/ETS2-Basic-Info-Grid)** for racing games (`js, CSS`)
-- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[these FFMPEG widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)**
+- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[these FFMPEG widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)** (and more: **[1](https://github.com/sjain882/Ethernet-ForWakeOnLanOnly-Win)**, **[2](https://github.com/sjain882/HTPC-Res-Switcher)**)
 - Create `Powershell` scripts to overcome various challenges and publish them on **[GitHub Gists](https://gist.github.com/sjain882)**
 - Save others time by translating various troubleshooting experiences into guides published on **[GitHub Gists](https://gist.github.com/sjain882)**.
 
