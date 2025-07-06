@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-## **💡 I'm currently...** 
+## **💡 I'm currently...**
 - Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#`
 - Contributing **[quality-of-life improvements](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)** (`C#`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 - Save others time by translating various troubleshooting experiences into guides published on **[GitHub Gists](https://gist.github.com/sjain882)**.
 
 ## **🛠 Languages & Tools**
+
 <div align="center">  
 <!-- Desktop Languages -->
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> 
