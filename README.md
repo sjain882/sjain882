@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>
-      <img style="margin: 15px; height: 50px" src="https://github-readme-stats.vercel.app/api?username=sjain882&count_private=true&theme=dark" width="80%" height="80%"/>
+      <img style="width: 80%; height: 80%" src="https://github-readme-stats.vercel.app/api?username=sjain882&count_private=true&theme=dark"/>
     </td>
     <td>
-      <img style="margin: 15px; height: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain882&layout=compact&theme=dark" width="95%" height="95%"/>
+      <img style="width: 95%; height: 95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain882&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
 
 ## **💡 I'm currently...**
 - Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#`
-- Contributing **[quality-of-life improvements](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** to **[WarrantV](https://www.gta5-mods.com/scripts/warrantv)** (`C#`)
+- Contributing quality-of-life improvements to **[WarrantV](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** (`C#` | **[more info](https://www.gta5-mods.com/scripts/warrantv)**) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better document my portfolio
 
