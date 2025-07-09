@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ## **📈 Next, I plan to...**
 - Create a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** with the **[Result](https://andrewlock.net/working-with-the-result-pattern-part-1-replacing-exceptions-as-control-flow/)** & **[Command](https://refactoring.guru/design-patterns/command/csharp/example)** patterns
 - Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for a game project (`C#`)
+- Make small C# tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
 
 ## **🚀 My best projects are...**
 - **[Game Content Manager]()** (`C# WinForms`)
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
 - Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (`AHK`) to accelerate my workflow
 - Tinker with **[browser userscripts](https://github.com/sjain882/Browser-Tweaks)** (`js`) to solve minor annoyances on frequently visited websites
 - Complete projects to repurpose obsolete hardware, such as a **[mobile telemetry display](https://github.com/sjain882/ETS2-Basic-Info-Grid)** for racing games (`js, CSS`)
-- Put together small `C# WinForms` utilities to assist with daily tasks, such as **[these FFMPEG widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)** (and more: **[1](https://github.com/sjain882/Ethernet-ForWakeOnLanOnly-Win)**, **[2](https://github.com/sjain882/HTPC-Res-Switcher)**)
+- Put together small `C#` GUI utilities to assist with daily tasks, such as **[these FFMPEG widgets](https://github.com/sjain882/FFMPEG-QTTabBar-Tools)** (and more: **[1](https://github.com/sjain882/Ethernet-ForWakeOnLanOnly-Win)**, **[2](https://github.com/sjain882/HTPC-Res-Switcher)**)
 - Create `Powershell` scripts to overcome various challenges and publish them on **[GitHub Gists](https://gist.github.com/sjain882)**
 - Save others time by translating various troubleshooting experiences into guides published on **[GitHub Gists](https://gist.github.com/sjain882)**.
 
