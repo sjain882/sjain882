@@ -20,10 +20,16 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>
-      <img style="width: 80%; height: 80%" src="https://github-readme-stats.vercel.app/api?username=sjain882&count_private=true&theme=dark"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=sjain882&theme=dark&show_icons=true&layout=compact&count_private=true">
+        <img style="width: 80%; height: 80%" src="https://github-readme-stats-ouuan.vercel.app/api?username=sjain882&show_icons=true&layout=compact&count_private=true">
+      </picture>
     </td>
     <td>
-      <img style="width: 95%; height: 95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain882&layout=compact&theme=dark"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sjain882&theme=dark&show_icons=true">
+        <img style="width: 95%; height: 95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjain882&show_icons=true&layout=compact">
+      </picture>
     </td>
   </tr>
 </table>
