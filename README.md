@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm a recent Software Engineering graduate with strong C# skills and a passion for building clean, efficient software solutions.
 
-- 💼 Open to Graduate & Junior Software Developer roles
+- 💼 Open to Graduate & Junior Software roles
 - 💬 Ask me anything [here](https://github.com/sjain882/sjain882/discussions/new/choose) or email me!
 - 👨‍💻 [My pull requests](https://github.com/search?q=is%3Apr%20author%3Asjain882&type=pullrequests)
 - ✏ [My opened issues](https://github.com/search?q=is%3Aissue+author%3Asjain882&type=issues&query=is%3Aissue+author%3Asjain882)
