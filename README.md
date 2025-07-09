@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## **📈 Next, I plan to...**
 - Create a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** with the **[Result](https://andrewlock.net/working-with-the-result-pattern-part-1-replacing-exceptions-as-control-flow/)** & **[Command](https://refactoring.guru/design-patterns/command/csharp/example)** patterns
 - Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for a game project (`C#`)
-- Make small C# tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
+- Create small `C# WinForms` tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
 
 ## **🚀 My best projects are...**
 - **[Game Content Manager]()** (`C# WinForms`)
