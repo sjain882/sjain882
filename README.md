@@ -26,8 +26,8 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 
 - 💼 Open to Graduate & Junior Software roles
 - 💬 Contact me at `sjain882github[at]gmail[dot]com`
-- 👨‍💻 [My pull requests](https://github.com/search?q=is%3Apr%20author%3Asjain882&type=pullrequests)
-- ✏ [My opened issues](https://github.com/search?q=is%3Aissue+author%3Asjain882&type=issues&query=is%3Aissue+author%3Asjain882)
+- 👨‍💻 **[My pull requests](https://github.com/search?q=is%3Apr%20author%3Asjain882&type=pullrequests)**
+- ✏ **[My opened issues](https://github.com/search?q=is%3Aissue+author%3Asjain882&type=issues&query=is%3Aissue+author%3Asjain882)**
 
 ## **💡 I'm currently...**
 - Learning **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#`
