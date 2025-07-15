@@ -57,6 +57,9 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 - **[HELEN ClearType Control Toggler](https://github.com/sjain882/HELEN-ClearType-Toggle)** (`C# WinForms`)
   - Simple patcher that modifies proprietary software to alleviate a design flaw
 
+## **🕗 Recently, I...**
+- Tinkered with **[Excel VBA Macros](https://github.com/sjain882/Excel-VBA-Macros)** to automate time-intensive spreadsheet tasks
+
 ## **🎨 Sometimes, I...**
 - Work on **[AutoHotKey scripts](http://github.com/sjain882/autohotkey-scripts)** (`AHK`) to accelerate my workflow
 - Tinker with **[browser userscripts](https://github.com/sjain882/Browser-Tweaks)** (`js`) to solve minor annoyances on frequently visited websites
