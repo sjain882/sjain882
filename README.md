@@ -30,11 +30,11 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 - 📃 **[My opened issues](https://github.com/search?q=is%3Aissue+author%3Asjain882&type=issues&query=is%3Aissue+author%3Asjain882&s=created&o=desc)**
 
 ## **🕗 Recently, I...**
-- Learnt **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#` ([FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP))
+- Learnt **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** with `C#` (**[FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP)**)
 - Tinkered with **[Excel VBA Macros](https://github.com/sjain882/Excel-VBA-Macros)** to automate time-intensive spreadsheet tasks
 
 ## **💡 I'm currently...**
-- Creating a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** with the **[Result](https://andrewlock.net/working-with-the-result-pattern-part-1-replacing-exceptions-as-control-flow/)** & **[Command](https://refactoring.guru/design-patterns/command/csharp/example)** patterns ([FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP))
+- Creating a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** with the **[Result](https://andrewlock.net/working-with-the-result-pattern-part-1-replacing-exceptions-as-control-flow/)** & **[Command](https://refactoring.guru/design-patterns/command/csharp/example)** patterns (**[FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP)**)
 - Contributing quality-of-life improvements to **[WarrantV](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** (`C#`, [more info](https://www.gta5-mods.com/scripts/warrantv)) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better document my portfolio
