@@ -71,16 +71,12 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 
 ## **🛠 Languages & Tools**
 
+<table><tr>
 <div align="center"> 
-<!-- Desktop Languages -->
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"/></a> 
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core"/></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/></a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/></a> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/></a>  
-<a href="https://www.haskell.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell"/></a>  
-<!-- Web Languages & Technologies-->
+<td valign="top" width="25%">
+
+### Frontend
+<div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL"/></a> 
@@ -89,12 +85,28 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"/></a> 
 <a href="https://laravel.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel"/></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP"/></a> 
-<!-- Other -->
+</div>
+</td><td valign="top" width="25%">
+
+
+### Backend  
+<div align="center">   
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"/></a> 
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core"/></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/></a> 
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"/></a> 
+<a href="https://www.java.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"/></a>  
+<a href="https://www.haskell.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell"/></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"/></a>  
+</div>
+</td><td valign="top" width="25%">
+
+### Other  
+<div align="center">   
 <a href="https://github.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"/></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"/></a> 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell"/></a> 
-<!-- Creative -->
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX"/></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender"/></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop"/></a> 
@@ -102,6 +114,9 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign"/></a> 
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro"/></a> 
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects"/></a> 
+</div>
+
+</td></tr></table>  
 
 <sub>*Note: My GitHub contribution graph isn't the best representation of the programming I do outside of work - some of my current projects aren't on GitHub*.</sub>
 
