@@ -73,7 +73,7 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 
 <table><tr>
 <div align="center"> 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Frontend
 <div align="center">  
@@ -86,7 +86,7 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 <a href="https://laravel.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel"/></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP"/></a> 
 </div>
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 
 ### Backend  
@@ -100,7 +100,7 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 <a href="https://www.haskell.org/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell"/></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px; height: 50px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"/></a>  
 </div>
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 ### Other  
 <div align="center">   
