@@ -32,10 +32,10 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 ## **🕗 Recently, I...**
 - Built a `C#` **[Finance Planner](https://github.com/sjain882/Finance-Planner-TDD-CRP)** using **[Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)** and the **[Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility/csharp/example)** pattern
 - Created a `C# ASP.NET` web API using **[Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)** with the **[CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)** pattern for my **[Finance Planner](https://github.com/sjain882/Finance-Planner-TDD-CRP)**
+- Designed a frontend for my `C#` **[FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP)** using **[Next.js](https://nextjs.org/)**
 - Tinkered with **[Excel VBA Macros](https://github.com/sjain882/Excel-VBA-Macros)** to automate time-intensive spreadsheet tasks
 
 ## **💡 I'm currently...**
-- Designing a frontend for my `C#` **[FinancePlanner](https://github.com/sjain882/Finance-Planner-TDD-CRP)** using **[Next.js](https://nextjs.org/)**
 - Contributing quality-of-life improvements to **[WarrantV](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** (`C#`, [more info](https://www.gta5-mods.com/scripts/warrantv)) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better document my portfolio
@@ -45,6 +45,9 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 - Create small `C# WinForms` tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
 
 ## **🚀 My best projects are...**
+- **[Finance Planner]()** (`C# ASP.NET`, `PostgreSQL`, `Next.js`)
+  - Fullstack .NET Core & Next.js Finance Planner system created to learn TDD, BDD, CQRS, CSR, CoR & Result patterns, PostgreSQL, Docker, and Github Actions CI with C#.
+‎
 - **[Game Content Manager]()** (`C# WinForms`)
   - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game
   - Unreleased pending rewrite with [AvaloniaUI](https://avaloniaui.net/)
