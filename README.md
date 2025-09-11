@@ -46,7 +46,8 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 
 ## **🚀 My best projects are...**
 - **[Finance Planner]()** (`C# ASP.NET`, `PostgreSQL`, `Next.js`)
-  - Fullstack .NET Core & Next.js Finance Planner system created to learn TDD, BDD, CQRS, CSR, CoR & Result patterns, PostgreSQL, Docker, and Github Actions CI with C#.
+  - Fullstack .NET Core & Next.js Finance Planner system
+  - Created to learn TDD, BDD, CQRS, CSR, CoR & Result patterns, PostgreSQL, Docker, and Github Actions CI with C# ASP.NET Core.
 ‎
 - **[Game Content Manager]()** (`C# WinForms`)
   - Custom content browser that obsoletes the poorly designed GUI of a popular simulation game
