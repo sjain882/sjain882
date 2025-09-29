@@ -36,7 +36,7 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 - Tinkered with **[Excel VBA Macros](https://github.com/sjain882/Excel-VBA-Macros)** to automate time-intensive spreadsheet tasks
 
 ## **💡 I'm currently...**
-- Contributing quality-of-life improvements to **[WarrantV](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** (`C#`, [more info](https://www.gta5-mods.com/scripts/warrantv)), **[JetSpotter](https://github.com/sjain882/jetspotter/commits/allMyChanges/)** and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
+- Contributing quality-of-life improvements to **[WarrantV](https://github.com/sjain882/WarrantV/commits/allMyChanges/)** (`C#`, [more info](https://www.gta5-mods.com/scripts/warrantv)), **[JetSpotter](https://github.com/sjain882/jetspotter/commits/allMyChanges/)** (`Go`) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
 - Sharpening my problem-solving skills on **[Coderbyte](https://coderbyte.com/)**
 - Working on a personal website to better document my portfolio
 
