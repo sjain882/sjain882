@@ -42,7 +42,8 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 
 ## **📈 Next, I plan to...**
 - Build a complex GUI using **[AvaloniaUI](https://avaloniaui.net/)** with the **[MVVM Community Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)** for a game project (`C#`)
-- Produce a `C#` program that notifies me of imminent arrivals/departures at any specified airport using the **[FlightAware AeroAPI](https://uk.flightaware.com/aeroapi/portal/documentation#get-/airports/-id-/flights)** and **[Slack Webhooks](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/)**, for plane-spotting purposes 
+- Produce a `C#` program that notifies me of imminent arrivals/departures at any specified airport using the **[FlightAware AeroAPI](https://uk.flightaware.com/aeroapi/portal/documentation#get-/airports/-id-/flights)** and **[Slack Webhooks](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/)**, for plane-spotting purposes
+- Release an OBS plugin allowing you to quickly rename the last saved recording file via a keyboard shortcut
 - Create small `C# WinForms` tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
 
 ## **🚀 My best projects are...**
