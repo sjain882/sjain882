@@ -45,7 +45,7 @@ I'm a recent Software Engineering graduate with strong C# skills and a passion f
 - Produce a `C#` program that notifies me of imminent arrivals/departures at any specified airport using the **[FlightAware AeroAPI](https://uk.flightaware.com/aeroapi/portal/documentation#get-/airports/-id-/flights)** and **[Slack Webhooks](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/)**, for plane-spotting purposes
 - Release an OBS plugin allowing you to quickly rename the last saved recording file via a keyboard shortcut
 - Create small `C# WinForms` tray menus as frontends for **[Lenovo ChargeThreshold CLI](https://forums.lenovo.com/t5/Lenovo-Vantage-Knowledge-Base/Q-amp-A-setting-a-ThinkPad-battery-charge-threshold-by-script/ta-p/4345631)** and **[CPU Boost Modes](https://gist.github.com/ehsan18t/268fa28f581e512a0a0df66b95daab88)**
-- Contribute quality-of-life improvements to **[SoundSwitch](https://github.com/Belphemur/SoundSwitch/commits/allMyChanges/)** (`C# WinForms`), **[JetSpotter](https://github.com/sjain882/jetspotter/commits/allMyChanges/)** (`Go`) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
+- Contribute quality-of-life improvements to **[SoundSwitch](https://github.com/Belphemur/SoundSwitch)** (`C# WinForms`), **[JetSpotter](https://github.com/vvanouytsel/jetspotter)** (`Go`) and **[Nagram Messenger](https://github.com/NextAlone/Nagram)** (`Java`)
 
 ## **🚀 My best projects are...**
 - **[Finance Planner](https://github.com/sjain882/Finance-Planner-TDD-CRP)** (`C# ASP.NET`, `PostgreSQL`, `Next.js`)
